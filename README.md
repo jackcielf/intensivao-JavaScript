@@ -1,1 +1,1 @@
-![Design preview](./images/apple-watch-page.png)
+![Design preview](./imagens/apple-watch-page.png)
