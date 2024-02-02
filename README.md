@@ -1,1 +1,3 @@
-![Design preview](./images/dom-casmurro.jpeg)
+# Project image - AudioBook
+
+![Design preview](./images/audiobook-page.png)
