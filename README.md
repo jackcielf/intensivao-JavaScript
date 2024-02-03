@@ -8,6 +8,6 @@
   3. Go to the "server.js" file and change the IP value on line 21 to what you copied
 
 # Start project
-  Run: <strong style"font-style='italic'">npm start</strong> or <strong>nodemon server.js</strong>
+  Run: <strong>npm start</strong> or <strong>nodemon server.js</strong>
 
 Ready! 👍
