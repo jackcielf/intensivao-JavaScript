@@ -8,6 +8,6 @@
   3. Go to the "server.js" file and change the IP value on line 21 to what you copied
 
 # Start project
-  Run: npm start or nodemon server.js
+  Run: <strong>npm start</strong> or <strong>nodemon server.js</strong>
 
 Ready! 👍
