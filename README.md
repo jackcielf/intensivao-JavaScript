@@ -1,6 +1,6 @@
 # Project image - Chat in Real-Time
 
-![Design preview](./images/Chat-in-Real-Time-page.png)
+![Design preview](./public/assets/Chat-in-Real-Time-page.png)
 
 # View ipconfig
   1. Go to CMD on your machine and type "ipconfig"
